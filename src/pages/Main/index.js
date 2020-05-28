@@ -31,7 +31,7 @@ const Main = () => {
           </CardHeader>
           <CardContent>
             <Title>Saldo disponível</Title>
-            <Description>R$ 7.500,13</Description>
+            <Description>R$ 3,33</Description>
           </CardContent>
           <CardFooter>
             <Annotation>
